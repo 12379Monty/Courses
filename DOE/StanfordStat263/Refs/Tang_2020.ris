@@ -1,0 +1,15 @@
+TY  - BOOK
+AB  - Getting numbers is easy; getting numbers you can trust is hard. This practical guide by experimentation leaders at Google, LinkedIn, and Microsoft will teach you how to accelerate innovation using trustworthy online controlled experiments, or A/B tests. Based on practical experiences at companies that each run more than 20,000 controlled experiments a year, the authors share examples, pitfalls, and advice for students and industry professionals getting started with experiments, plus deeper dives into advanced topics for practitioners who want to improve the way they make data-driven decisions.Learn how toUse the scientific method to evaluate hypotheses using controlled experiments Define key metrics and ideally an Overall Evaluation CriterionTest for trustworthiness of the results and alert experimenters to violated assumptionsBuild a scalable platform that lowers the marginal cost of experiments close to zeroAvoid pitfalls like carryover effects and Twyman's lawUnderstand how statistical issues play out in practice.
+AU  - Kohavi, Ron
+AU  - Tang, Diane
+AU  - Xu, Ya
+CY  - Cambridge
+DB  - Cambridge Core
+DO  - DOI: 10.1017/9781108653985
+DP  - Cambridge University Press
+PB  - Cambridge University Press
+PY  - 2020
+SN  - 9781108724265
+TI  - Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing
+UR  - https://www.cambridge.org/core/books/trustworthy-online-controlled-experiments/D97B26382EB0EB2DC2019A7A7B518F59
+ER  - 

@@ -1,0 +1,82 @@
+PMID- 34671998
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220309
+LR  - 20220309
+IS  - 1097-0258 (Electronic)
+IS  - 0277-6715 (Linking)
+VI  - 41
+IP  - 1
+DP  - 2022 Jan 15
+TI  - Propensity score methods for merging observational and experimental datasets.
+PG  - 65-86
+LID - 10.1002/sim.9223 [doi]
+AB  - We consider how to merge a limited amount of data from a randomized controlled 
+      trial (RCT) into a much larger set of data from an observational data base (ODB), 
+      to estimate an average causal treatment effect. Our methods are based on 
+      stratification. The strata are defined in terms of effect moderators as well as 
+      propensity scores estimated in the ODB. Data from the RCT are placed into the 
+      strata they would have occupied, had they been in the ODB instead. We assume that 
+      treatment differences are comparable in the two data sources. Our first 
+      "spiked-in" method simply inserts the RCT data into their corresponding ODB 
+      strata. We also consider a data-driven convex combination of the ODB and RCT 
+      treatment effect estimates within each stratum. Using the delta method and 
+      simulations, we identify a bias problem with the spiked-in estimator that is 
+      ameliorated by the convex combination estimator. We apply our methods to data 
+      from the Women's Health Initiative, a study of thousands of postmenopausal women 
+      which has both observational and experimental data on hormone therapy (HT). Using 
+      half of the RCT to define a gold standard, we find that a version of the 
+      spiked-in estimator yields lower-MSE estimates of the causal impact of HT on 
+      coronary heart disease than would be achieved using either a small RCT or the 
+      observational component on its own.
+CI  - © 2021 John Wiley & Sons Ltd.
+FAU - Rosenman, Evan T R
+AU  - Rosenman ETR
+AUID- ORCID: 0000-0001-5885-2925
+AD  - Data Science Initiative, Harvard University, Cambridge, Massachusetts, USA.
+FAU - Owen, Art B
+AU  - Owen AB
+AD  - Department of Statistics, Stanford University, Stanford, California, USA.
+FAU - Baiocchi, Mike
+AU  - Baiocchi M
+AD  - Department of Statistics, Stanford University, Stanford, California, USA.
+FAU - Banack, Hailey R
+AU  - Banack HR
+AD  - Department of Epidemiology and Environmental Health, University at Buffalo, 
+      Buffalo, New York, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+PT  - Randomized Controlled Trial
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20211020
+PL  - England
+TA  - Stat Med
+JT  - Statistics in medicine
+JID - 8215016
+SB  - IM
+MH  - Bias
+MH  - Causality
+MH  - Databases, Factual
+MH  - Female
+MH  - Humans
+MH  - Propensity Score
+MH  - *Research Design
+OTO - NOTNLM
+OT  - causal inference
+OT  - external validity
+OT  - observational studies
+OT  - randomized controlled trials
+EDAT- 2021/10/22 06:00
+MHDA- 2022/03/11 06:00
+CRDT- 2021/10/21 06:23
+PHST- 2021/09/10 00:00 [revised]
+PHST- 2020/03/22 00:00 [received]
+PHST- 2021/09/27 00:00 [accepted]
+PHST- 2021/10/22 06:00 [pubmed]
+PHST- 2022/03/11 06:00 [medline]
+PHST- 2021/10/21 06:23 [entrez]
+AID - 10.1002/sim.9223 [doi]
+PST - ppublish
+SO  - Stat Med. 2022 Jan 15;41(1):65-86. doi: 10.1002/sim.9223. Epub 2021 Oct 20.

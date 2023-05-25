@@ -1,0 +1,75 @@
+PMID- 36477576
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230124
+LR  - 20230201
+IS  - 1573-7284 (Electronic)
+IS  - 0393-2990 (Print)
+IS  - 0393-2990 (Linking)
+VI  - 38
+IP  - 1
+DP  - 2023 Jan
+TI  - Student and the Lanarkshire milk experiment.
+PG  - 1-10
+LID - 10.1007/s10654-022-00941-x [doi]
+AB  - A detailed examination of the 1930 Lanarkshire Milk Experiment (LME) by the 
+      famous statistician William Sealy Gossett ("Student"), which appeared in 
+      Biometrika in 1931, is re-examined from a more modern perspective. The LME had a 
+      complicated design whereby 67 schools in Lanarkshire were allocated to receive 
+      either raw or pasteurised milk but pupils within the schools were allocated to 
+      either receive milk or to act as controls. Student's criticisms are considered in 
+      detail and examined in terms of subsequent developments on the design and 
+      analysis of experiments, in particular as regards appropriate estimation of 
+      standard errors of treatment estimates when an incomplete blocks structure has 
+      been used. An analogy with a more modern trial in osteoarthritis is made. 
+      Suggestions are made as to how analysis might proceed if the original data were 
+      available. Some lessons for observational studies in epidemiology are drawn and 
+      it is speculated that hidden clustering structures might be an explanation as to 
+      why results may vary from observational study to observational study by more than 
+      conventionally calculated standard errors might suggest.
+CI  - © 2022. The Author(s).
+FAU - Senn, Stephen
+AU  - Senn S
+AUID- ORCID: 0000-0002-7558-8473
+AD  - School of Health and Related Research, University of Sheffield, Sheffield, UK. 
+      stephen@senns.uk.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20221207
+PL  - Netherlands
+TA  - Eur J Epidemiol
+JT  - European journal of epidemiology
+JID - 8508062
+SB  - IM
+MH  - Humans
+MH  - Animals
+MH  - *Milk
+MH  - *Schools
+MH  - Observational Studies as Topic
+PMC - PMC9867657
+OTO - NOTNLM
+OT  - Cluster design
+OT  - Incomplete blocks
+OT  - Nutrition
+OT  - Random effects
+OT  - Randomisation
+OT  - Standard errors
+OT  - Student
+COIS- The author has no relevant financial or non-financial interests to disclose of 
+      which he is aware. A full statement of all his interests is maintained here: 
+      http://senns.uk/Declaration_Interest.htm.
+EDAT- 2022/12/09 06:00
+MHDA- 2023/01/25 06:00
+CRDT- 2022/12/08 11:56
+PHST- 2022/10/25 00:00 [received]
+PHST- 2022/11/02 00:00 [accepted]
+PHST- 2022/12/09 06:00 [pubmed]
+PHST- 2023/01/25 06:00 [medline]
+PHST- 2022/12/08 11:56 [entrez]
+AID - 10.1007/s10654-022-00941-x [pii]
+AID - 941 [pii]
+AID - 10.1007/s10654-022-00941-x [doi]
+PST - ppublish
+SO  - Eur J Epidemiol. 2023 Jan;38(1):1-10. doi: 10.1007/s10654-022-00941-x. Epub 2022 
+      Dec 7.

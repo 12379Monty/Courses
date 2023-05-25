@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Supersaturated designs: A review of their construction and analysis
+AU  - Georgiou, Stelios D.
+JO  - Journal of Statistical Planning and Inference
+VL  - 144
+SP  - 92
+EP  - 109
+PY  - 2014
+DA  - 2014/01/01/
+T2  - International Conference on Design of Experiments
+SN  - 0378-3758
+DO  - https://doi.org/10.1016/j.jspi.2012.09.014
+UR  - https://www.sciencedirect.com/science/article/pii/S0378375812003084
+KW  - Factorial design
+KW  - Optimal designs
+KW  - Orthogonal design
+KW  - Saturated design
+KW  - Screening designs
+AB  - Supersaturated designs are fractional factorial designs in which the run size (n) is too small to estimate all the main effects. Under the effect sparsity assumption, the use of supersaturated design can provide the low-cost identification of the few, possibly dominating factors (screening). Several methods for constructing and analyzing two-, multi-, or mixed-level supersaturated designs have been proposed in recent literature. A brief review of the construction and analysis of supersaturated designs is given in this paper.
+ER  - 
